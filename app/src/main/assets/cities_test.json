@@ -1,0 +1,254 @@
+[
+  {
+    "country": "SO",
+    "name": "Gobolka Sool",
+    "_id": 6268947,
+    "coord": {
+      "lon": 47.5,
+      "lat": 8.66667
+    }
+  },
+  {
+    "country": "SO",
+    "name": "Laascaanood",
+    "_id": 400769,
+    "coord": {
+      "lon": 47.359711,
+      "lat": 8.47738
+    }
+  },
+  {
+    "country": "SS",
+    "name": "Wau",
+    "_id": 363885,
+    "coord": {
+      "lon": 27.9953,
+      "lat": 7.70286
+    }
+  },
+  {
+    "country": "SS",
+    "name": "Torit",
+    "_id": 365742,
+    "coord": {
+      "lon": 32.56778,
+      "lat": 4.41333
+    }
+  },
+  {
+    "country": "SS",
+    "name": "Rumbek",
+    "_id": 367927,
+    "coord": {
+      "lon": 29.691231,
+      "lat": 6.802
+    }
+  },
+  {
+    "country": "SS",
+    "name": "Gogrial",
+    "_id": 374739,
+    "coord": {
+      "lon": 28.10037,
+      "lat": 8.53324
+    }
+  },
+  {
+    "country": "SV",
+    "name": "Sensuntepeque",
+    "_id": 3583158,
+    "coord": {
+      "lon": -88.633331,
+      "lat": 13.86667
+    }
+  },
+  {
+    "country": "LT",
+    "name": "Murava",
+    "_id": 596826,
+    "coord": {
+      "lon": 23.966669,
+      "lat": 54.916672
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Eickel",
+    "_id": 2932029,
+    "coord": {
+      "lon": 7.18333,
+      "lat": 51.51667
+    }
+  },
+  {
+    "country": "BE",
+    "name": "Wanne",
+    "_id": 2784102,
+    "coord": {
+      "lon": 5.92083,
+      "lat": 50.355
+    }
+  },
+  {
+    "country": "GB",
+    "name": "Lytham",
+    "_id": 2643273,
+    "coord": {
+      "lon": -2.96293,
+      "lat": 53.73695
+    }
+  },
+  {
+    "country": "CA",
+    "name": "Bristol",
+    "_id": 5908999,
+    "coord": {
+      "lon": -76.466103,
+      "lat": 45.533409
+    }
+  },
+  {
+    "country": "SG",
+    "name": "Somapah Serangoon",
+    "_id": 1880242,
+    "coord": {
+      "lon": 103.883331,
+      "lat": 1.36667
+    }
+  },
+  {
+    "country": "GB",
+    "name": "Woodthorpe",
+    "_id": 7910261,
+    "coord": {
+      "lon": -1.12867,
+      "lat": 52.988991
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Autreville-sur-la-Renne",
+    "_id": 6449590,
+    "coord": {
+      "lon": 4.97917,
+      "lat": 48.117222
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Saint-Martin-sur-la-Renne",
+    "_id": 2978219,
+    "coord": {
+      "lon": 4.95387,
+      "lat": 48.145119
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Dovol’noye",
+    "_id": 1507220,
+    "coord": {
+      "lon": 79.667267,
+      "lat": 54.496498
+    }
+  },
+  {
+    "country": "AF",
+    "name": "Ḩamāmak",
+    "_id": 1438738,
+    "coord": {
+      "lon": 61.87384,
+      "lat": 31.705509
+    }
+  },
+  {
+    "country": "MY",
+    "name": "Perkampungan Kertih Lima",
+    "_id": 7622194,
+    "coord": {
+      "lon": 103.321899,
+      "lat": 4.5777
+    }
+  },
+  {
+    "country": "IT",
+    "name": "Pieve Tesino",
+    "_id": 6539511,
+    "coord": {
+      "lon": 11.61029,
+      "lat": 46.068211
+    }
+  },
+  {
+    "country": "IT",
+    "name": "Malga Quarazza",
+    "_id": 3174159,
+    "coord": {
+      "lon": 11.6,
+      "lat": 46.116669
+    }
+  },
+  {
+    "country": "LT",
+    "name": "Velžys",
+    "_id": 593315,
+    "coord": {
+      "lon": 24.433331,
+      "lat": 55.700001
+    }
+  },
+  {
+    "country": "SI",
+    "name": "Občina Naklo",
+    "_id": 3239104,
+    "coord": {
+      "lon": 14.28667,
+      "lat": 46.29361
+    }
+  },
+  {
+    "country": "SI",
+    "name": "Spodnja Besnica",
+    "_id": 3190253,
+    "coord": {
+      "lon": 14.31667,
+      "lat": 46.26667
+    }
+  },
+  {
+    "country": "DO",
+    "name": "La Guamita",
+    "_id": 3502497,
+    "coord": {
+      "lon": -70.684601,
+      "lat": 18.92034
+    }
+  },
+  {
+    "country": "SE",
+    "name": "Marieberg",
+    "_id": 2692644,
+    "coord": {
+      "lon": 18.01667,
+      "lat": 59.333328
+    }
+  },
+  {
+    "country": "NZ",
+    "name": "Manakau",
+    "_id": 2187821,
+    "coord": {
+      "lon": 175.216675,
+      "lat": -40.716671
+    }
+  },
+  {
+    "country": "AU",
+    "name": "Binalong Bay",
+    "_id": 7910024,
+    "coord": {
+      "lon": 148.311646,
+      "lat": -41.251141
+    }
+  }
+]
